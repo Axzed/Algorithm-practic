@@ -1,1 +1,1 @@
-### leetcode.cn update。
+### leetcode.cn update
