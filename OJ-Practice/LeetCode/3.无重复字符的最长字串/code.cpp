@@ -14,7 +14,7 @@ public:
                 hash[s[j]] --;
                 j ++;
             }
-            //没处理一个字符更新一次ans的值
+            //每处理一个字符更新一次ans的值
             ans = max(ans, i - j + 1);
         }
         return ans;
